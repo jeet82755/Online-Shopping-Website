@@ -1,0 +1,4 @@
+<?php
+
+echo " footer include";
+?>
